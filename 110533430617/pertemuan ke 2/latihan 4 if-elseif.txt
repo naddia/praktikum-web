@@ -1,0 +1,25 @@
+<!doctype HTML>
+<html>
+	<head>
+		<tittle>
+		Latihan 4 Nadia Pernyataan Seleksi IF-ELSEIF		</tittle>
+	</head>
+	<body>
+		<?php
+		$a = 20;
+		$b = 20;
+
+		if ($a>$b) 
+		{
+			echo "a lebih besar dari b";
+		} elseif ($a == $b)
+		{ 
+			echo "a sama dengan b";
+		}
+		else
+		{
+			echo "a kurang dari b";	
+		}
+		?>
+	</body>
+</html>

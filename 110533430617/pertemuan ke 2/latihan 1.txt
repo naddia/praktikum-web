@@ -1,0 +1,20 @@
+<!doctype HTML>
+<html>
+	<head>
+		<tittle>
+		Latihan 1 Nadia
+		</tittle>
+	</head>
+	<body>
+		<?php
+		echo "Kode PHP di sini";
+		?>
+
+		<p> Dokumen HTML </p>
+
+		<?php
+		echo "Kode PHP di sini";
+		?>
+
+	</body>
+</html>

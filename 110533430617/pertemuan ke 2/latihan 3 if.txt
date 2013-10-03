@@ -1,0 +1,19 @@
+<!doctype HTML>
+<html>
+	<head>
+		<tittle>
+		Latihan 4 Nadia Pernyataan Seleksi IF
+		</tittle>
+	</head>
+	<body>
+		<?php
+		$a = 10;
+		$b = 5;
+
+		if ($a>$b) 
+		{
+			echo "a lebih besar dari b";
+		}
+		?>
+	</body>
+</html>

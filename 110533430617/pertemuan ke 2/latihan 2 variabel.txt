@@ -1,0 +1,16 @@
+<!doctype HTML>
+<html>
+	<head>
+		<tittle>
+		Latihan 2 Nadia Variabel
+		</tittle>
+	</head>
+	<body>
+		<?php
+		//Deklarasi dan inisialisasi
+		$bil=3;
+
+		echo $bil;
+		?>
+	</body>
+</html>

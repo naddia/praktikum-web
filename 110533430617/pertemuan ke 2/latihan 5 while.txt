@@ -1,0 +1,18 @@
+<!doctype HTML>
+<html>
+	<head>
+		<tittle>
+		Latihan 4 Nadia Pernyataan Seleksi switch		</tittle>
+	</head>
+	<body>
+		<?php
+		$i=0;
+
+		while ($i < 10) {
+			echo $i;
+		//ikremen counter
+		$i++;
+		}
+		?>
+	</body>
+</html>
