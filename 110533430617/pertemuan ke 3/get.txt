@@ -1,0 +1,23 @@
+<!doctype HTML>
+<html>
+<head>
+<tittle> METODE GET NADIA </tittle>
+</head>
+<body>
+<form action="<?php $_SERVER['PHP_SELF'];
+?>">
+method="get">
+
+Nama
+<input type="text" name="nama" /> <br />
+
+<input type="submit" value="OK" />
+</form>
+
+<?php
+if (isset ($_GET['nama'])) {
+  echo 'Hallo, ' . $ GET ['nama'];
+}
+?>
+</body>
+</html>
